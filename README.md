@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/clockuiprojec" alt="Projeto Clockui" />
+  <img height="346" width="615" src="https://github.com/ludmilamothe/Projeto-clock-ui/blob/main/assets/clockuiprojec.gif" alt="Projeto Clockui" />
 
 &#xa0;
 
@@ -9,25 +9,25 @@
 <h1 align="center">Projeto Clockui</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ludmilamothe/projeto-clockui?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ludmilamothe/Projeto-clock-ui?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ludmilamothe/projeto-clockui?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ludmilamothe/Projeto-clock-ui?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ludmilamothe/projeto-clockui?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ludmilamothe/Projeto-clock-ui?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/ludmilamothe/projeto-clockui?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ludmilamothe/Projeto-clock-ui?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ludmilamothe/projeto-clockui?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ludmilamothe/Projeto-clock-ui?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ludmilamothe/projeto-clockui?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ludmilamothe/Projeto-clock-ui?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ludmilamothe/projeto-clockui?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ludmilamothe/Projeto-clock-ui?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center">
-🚀	Projeto Clockui finished 🚀
+🚀	Projeto Clock Ui finished 🚀
 </h4>
 
 <hr> -->
@@ -48,43 +48,15 @@
 
 Responsive analog clock design.
 
-## :sparkles: Features
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript](https://www.javascript.com/)
+- [SCss](https://sass-lang.com/)
 
-## :white_check_mark: Requirements
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting
-
-```bash
-# Clone this project
-$ git clone https://github.com/ludmilamothe/projeto-clockui
-
-# Access
-$ cd projeto-clockui
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
 
 ## :memo: License
 

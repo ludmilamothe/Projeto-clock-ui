@@ -37,7 +37,7 @@
 
 ## :dart: About
 
-Responsive analog clock design.
+Responsive analog clock project developed in javascript course.
 
 ## :rocket: Technologies
 
